@@ -1,0 +1,2 @@
+Prefix plugins/RNAontheBENCH/example/
+Plugin RNAontheBENCH inputfile w12.genes.quant outputfile .
